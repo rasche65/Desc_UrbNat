@@ -1,5 +1,5 @@
 # Desc_UrbNat
-Descriptor files for Urban &amp; Natural scene collection (Oliva, Torralba, 8 categories)
+Descriptor files for Urban &amp; Natural scene collection (Oliva, Torralba, 8 categories, 240 images)
 
 H_XXX are histogram-of-attributes (per image) [nImg nDim]
 
